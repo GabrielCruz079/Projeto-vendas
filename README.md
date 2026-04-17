@@ -129,6 +129,5 @@ Estudante de Ciência da Computação com foco em Análise de Dados. Tenho inter
 
 ## 📬 Contato
 
-* Email: [seuemail@email.com](mailto:seuemail@email.com)
-* LinkedIn: (coloque aqui)
-* GitHub: (seu perfil)
+* Email: [gabriel.ramos.cruz079@gmail.com]
+* LinkedIn: (https://www.linkedin.com/in/gabriel-ramos-50a081357/)
