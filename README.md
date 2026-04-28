@@ -32,3 +32,27 @@ O objetivo é demonstrar habilidades práticas na área de dados utilizando ferr
 ---
 
 ## 📂 Estrutura do Repositório
+
+📁 data/ → Bases de dados
+📁 notebooks/ → Análises em Python
+📁 dashboards/ → Arquivos do Power BI
+📁 excel/ → Planilhas auxiliares
+
+
+---
+
+## 💡 Insights Gerados
+
+Os projetos deste repositório buscam responder perguntas de negócio e identificar padrões, tendências e oportunidades a partir dos dados.
+
+---
+
+## 📸 Exemplos de Dashboards
+
+> Adicione aqui imagens dos seus dashboards do Power BI para deixar o projeto mais visual.
+
+---
+
+## 📌 Sobre mim
+
+Sou apaixonado por dados e estou em constante evolução na área de análise de dados, com foco em transformar informações em soluções estratégicas para o negócio.
