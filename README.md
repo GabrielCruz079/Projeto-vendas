@@ -43,6 +43,3 @@ Os projetos deste repositório buscam responder perguntas de negócio e identifi
 
 Sou apaixonado por dados e estou em constante evolução na área de análise de dados, buscando transformar informações em soluções estratégicas.
 
-📬 Contato
-LinkedIn: (https://www.linkedin.com/in/gabriel-ramos-50a081357/)
-Email: [gabriel.ramos.cruz079@gmail.com]
