@@ -33,10 +33,10 @@ O objetivo é demonstrar habilidades práticas na área de dados utilizando ferr
 
 ## 📂 Estrutura do Repositório
 
-📁 data/ → Bases de dados
-📁 notebooks/ → Análises em Python
-📁 dashboards/ → Arquivos do Power BI
-📁 excel/ → Planilhas auxiliares
+- 📁 data/ → Bases de dados
+- 📁 notebooks/ → Análises em Python
+- 📁 dashboards/ → Arquivos do Power BI
+- 📁 excel/ → Planilhas auxiliares
 
 
 ---
@@ -49,7 +49,7 @@ Os projetos deste repositório buscam responder perguntas de negócio e identifi
 
 ## 📸 Exemplos de Dashboards
 
-> Adicione aqui imagens dos seus dashboards do Power BI para deixar o projeto mais visual.
+> Em trabalho 
 
 ---
 
