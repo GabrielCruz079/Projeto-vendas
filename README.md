@@ -49,7 +49,8 @@ Os projetos deste repositório buscam responder perguntas de negócio e identifi
 
 ## 📸 Exemplos de Dashboards
 
-> Em trabalho 
+> <img width="1116" height="628" alt="Graficos Power Bi png" src="https://github.com/user-attachments/assets/d1cf2bd2-add8-443b-851d-3f8f50225726" />
+
 
 ---
 
