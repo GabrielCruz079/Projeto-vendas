@@ -12,6 +12,13 @@ O objetivo é demonstrar habilidades práticas na área de dados utilizando ferr
 
 ---
 
+##📌 Principais insights encontrados:
+- Produto X representou 35% do faturamento
+- Região Y teve maior crescimento
+- O mês de dezembro apresentou pico de vendas
+
+---
+
 ## 🛠️ Tecnologias Utilizadas
 
 - 🐍 Python (Pandas, NumPy, Matplotlib, Seaborn)  
@@ -56,4 +63,4 @@ Os projetos deste repositório buscam responder perguntas de negócio e identifi
 
 ## 📌 Sobre mim
 
-Sou apaixonado por dados e estou em constante evolução na área de análise de dados, com foco em transformar informações em soluções estratégicas para o negócio.
+Profissional em formação na área de análise de dados, com foco em transformar dados em insights estratégicos por meio de Python, Power BI e visualização de dados. Busco desenvolver soluções orientadas a dados para apoiar decisões de negócio.
