@@ -1,0 +1,16 @@
+data	produto	categoria	quantidade	preco	custo	faturamento	custo_total	lucro	mes	ano	
+01/01/2024	Cimento	Construção	10	R$ 35,00	R$ 20,00	R$ 350,00	R$ 200,00	R$ 150,00	1	2024	
+02/01/2024	Areia	Construção	20	R$ 20,00	R$ 10,00	R$ 400,00	R$ 200,00	R$ 200,00	1	2024	
+03/01/2024	Tijolo	Construção	100	R$ 1,50	R$ 0,80	R$ 150,00	R$ 80,00	R$ 70,00	1	2024	
+04/01/2024	Ferro	Construção	5	R$ 50,00	R$ 30,00	R$ 250,00	R$ 150,00	R$ 100,00	1	2024	
+05/01/2024	Tinta	Acabamento	8	R$ 80,00	R$ 50,00	R$ 640,00	R$ 400,00	R$ 240,00	1	2024	
+06/01/2024	Cimento	Construção	15	R$ 35,00	R$ 20,00	R$ 525,00	R$ 300,00	R$ 225,00	1	2024	
+07/01/2024	Tinta	Acabamento	12	R$ 80,00	R$ 50,00	R$ 960,00	R$ 600,00	R$ 360,00	1	2024	
+08/01/2024	Areia	Construção	30	R$ 20,00	R$ 10,00	R$ 600,00	R$ 300,00	R$ 300,00	1	2024	
+09/01/2024	Ferro	Construção	8	R$ 50,00	R$ 30,00	R$ 400,00	R$ 240,00	R$ 160,00	1	2024	
+10/01/2024	Tijolo	Construção	200	R$ 1,50	R$ 0,80	R$ 300,00	R$ 160,00	R$ 140,00	1	2024	
+01/02/2024	Cimento	Construção	20	R$ 35,00	R$ 20,00	R$ 700,00	R$ 400,00	R$ 300,00	2	2024	
+02/02/2024	Tinta	Acabamento	10	R$ 80,00	R$ 50,00	R$ 800,00	R$ 500,00	R$ 300,00	2	2024	
+03/02/2024	Areia	Construção	25	R$ 20,00	R$ 10,00	R$ 500,00	R$ 250,00	R$ 250,00	2	2024	
+04/02/2024	Ferro	Construção	6	R$ 50,00	R$ 30,00	R$ 300,00	R$ 180,00	R$ 120,00	2	2024	
+05/02/2024	Tijolo	Construção	150	R$ 1,50	R$ 0,80	R$ 225,00	R$ 120,00	R$ 105,00	2	2024	
